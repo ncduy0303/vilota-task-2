@@ -18,8 +18,6 @@ The rest is just to download the GoPro9 dataset and run the Python script follow
 
 ### Results
 
-Refer to `cam_calib_GH010162_di_2.0.json` and `cam_imu_calib_result_GH010164.json` for the calibration results.
-
 1. **Camera Model Used for Calibrating the Camera**: refer to `cam_calib_GH010162_di_2.0.json` for the values.
 
    - The camera model used is "DIVISION_UNDISTORTION", refer to this [paper](https://publikationen.bibliothek.kit.edu/1000140748) for more details.
@@ -49,16 +47,6 @@ Refer to `cam_calib_GH010162_di_2.0.json` and `cam_imu_calib_result_GH010164.jso
 
    - **Estimated Time Offset**: -0.012422480060567525 seconds
 
-5. **IMU Biases**: refer to `imu_bias_GH010163.json` for the values.
-   - **Gyroscope Bias** (rad/s):
-     - **x**: -0.0016067765119457747
-     - **y**: 0.0018723505919155674
-     - **z**: -0.0075864595615467885
-   - **Accelerometer Bias** (m/s²):
-     - **x**: -0.028814204520209767
-     - **y**: -0.036527212881672745
-     - **z**: 0.010066784027324015
-
 ## Part 2: Analytical - Fisheye Camera Model
 
 ### Setup
@@ -69,7 +57,7 @@ Install the required packages using the following command:
 pip install -r requirements.txt
 ```
 
-### Overview
+### Idea
 
 Fisheye lenses are wide-angle lenses that provide a broad hemispherical view. However, it can also introduce significant distortion, one of which is radial distortion where points with the same distance from the optical center have the same amount of distortion. But as long as we can model the distortion, we can easily correct it later.
 
@@ -79,7 +67,7 @@ As all the camera instrinsic values (focal length and principal points) and dist
 
 Visualization of the distortion is done by distorting a normal grid image and plotting the distorted grid image. Pixel coordinates of the normal grid image are first converted back to the camera coordinates, then to the distorted camera coordinates using the fisheye distortion model, and finally back to the pixel coordinates of the distorted grid image. Refer to the `kb4_visualization.ipynb` for the implementation.
 
-### Results
+### Visualization
 
 The distortion is classified as barrel distortion as the straight lines appear to be curved inwards.
 
