@@ -1,0 +1,507 @@
+['../GoPro9/dataset3/cam/GH010162.MP4']
+==================================================================
+Running corner extraction.
+==================================================================
+Extracing corners for camera calibration.
+I0323 04:34:49.470161 45381 extract_board_to_json.cc:92] Starting board extraction. This might take a while...
+Total number of frames: 1463
+I0323 04:34:53.099200 45381 board_extractor.cc:444] Extracting corners from frame 60 / 1463
+I0323 04:34:56.338930 45381 board_extractor.cc:444] Extracting corners from frame 120 / 1463
+I0323 04:34:59.763563 45381 board_extractor.cc:444] Extracting corners from frame 180 / 1463
+I0323 04:35:02.837821 45381 board_extractor.cc:444] Extracting corners from frame 240 / 1463
+I0323 04:35:05.715690 45381 board_extractor.cc:444] Extracting corners from frame 300 / 1463
+I0323 04:35:08.606490 45381 board_extractor.cc:444] Extracting corners from frame 360 / 1463
+I0323 04:35:11.766342 45381 board_extractor.cc:444] Extracting corners from frame 420 / 1463
+I0323 04:35:15.151201 45381 board_extractor.cc:444] Extracting corners from frame 480 / 1463
+I0323 04:35:18.401499 45381 board_extractor.cc:444] Extracting corners from frame 540 / 1463
+I0323 04:35:21.350764 45381 board_extractor.cc:444] Extracting corners from frame 600 / 1463
+I0323 04:35:24.583143 45381 board_extractor.cc:444] Extracting corners from frame 660 / 1463
+I0323 04:35:27.740408 45381 board_extractor.cc:444] Extracting corners from frame 720 / 1463
+I0323 04:35:30.663730 45381 board_extractor.cc:444] Extracting corners from frame 780 / 1463
+I0323 04:35:33.481994 45381 board_extractor.cc:444] Extracting corners from frame 840 / 1463
+I0323 04:35:36.562458 45381 board_extractor.cc:444] Extracting corners from frame 900 / 1463
+I0323 04:35:39.782904 45381 board_extractor.cc:444] Extracting corners from frame 960 / 1463
+I0323 04:35:43.448279 45381 board_extractor.cc:444] Extracting corners from frame 1020 / 1463
+I0323 04:35:46.966535 45381 board_extractor.cc:444] Extracting corners from frame 1080 / 1463
+I0323 04:35:50.075769 45381 board_extractor.cc:444] Extracting corners from frame 1140 / 1463
+I0323 04:35:53.064703 45381 board_extractor.cc:444] Extracting corners from frame 1200 / 1463
+I0323 04:35:55.918937 45381 board_extractor.cc:444] Extracting corners from frame 1260 / 1463
+I0323 04:35:58.992141 45381 board_extractor.cc:444] Extracting corners from frame 1320 / 1463
+I0323 04:36:02.262240 45381 board_extractor.cc:444] Extracting corners from frame 1380 / 1463
+I0323 04:36:05.598466 45381 board_extractor.cc:444] Extracting corners from frame 1440 / 1463
+Extracing corners for imu camera calibration.
+I0323 04:36:07.011560 45389 extract_board_to_json.cc:92] Starting board extraction. This might take a while...
+Total number of frames: 4660
+I0323 04:36:12.272357 45389 board_extractor.cc:444] Extracting corners from frame 60 / 4660
+I0323 04:36:15.766666 45389 board_extractor.cc:444] Extracting corners from frame 120 / 4660
+I0323 04:36:19.143405 45389 board_extractor.cc:444] Extracting corners from frame 180 / 4660
+I0323 04:36:22.627727 45389 board_extractor.cc:444] Extracting corners from frame 240 / 4660
+I0323 04:36:26.064442 45389 board_extractor.cc:444] Extracting corners from frame 300 / 4660
+I0323 04:36:29.626514 45389 board_extractor.cc:444] Extracting corners from frame 360 / 4660
+I0323 04:36:33.037961 45389 board_extractor.cc:444] Extracting corners from frame 420 / 4660
+I0323 04:36:36.398229 45389 board_extractor.cc:444] Extracting corners from frame 480 / 4660
+I0323 04:36:39.742964 45389 board_extractor.cc:444] Extracting corners from frame 540 / 4660
+I0323 04:36:42.934335 45389 board_extractor.cc:444] Extracting corners from frame 600 / 4660
+I0323 04:36:46.288554 45389 board_extractor.cc:444] Extracting corners from frame 660 / 4660
+I0323 04:36:49.590914 45389 board_extractor.cc:444] Extracting corners from frame 720 / 4660
+I0323 04:36:52.766870 45389 board_extractor.cc:444] Extracting corners from frame 780 / 4660
+I0323 04:36:55.918102 45389 board_extractor.cc:444] Extracting corners from frame 840 / 4660
+I0323 04:36:59.147575 45389 board_extractor.cc:444] Extracting corners from frame 900 / 4660
+I0323 04:37:02.192873 45389 board_extractor.cc:444] Extracting corners from frame 960 / 4660
+I0323 04:37:05.445546 45389 board_extractor.cc:444] Extracting corners from frame 1020 / 4660
+I0323 04:37:08.428256 45389 board_extractor.cc:444] Extracting corners from frame 1080 / 4660
+I0323 04:37:11.731910 45389 board_extractor.cc:444] Extracting corners from frame 1140 / 4660
+I0323 04:37:14.848572 45389 board_extractor.cc:444] Extracting corners from frame 1200 / 4660
+I0323 04:37:18.082206 45389 board_extractor.cc:444] Extracting corners from frame 1260 / 4660
+I0323 04:37:21.067443 45389 board_extractor.cc:444] Extracting corners from frame 1320 / 4660
+I0323 04:37:24.439291 45389 board_extractor.cc:444] Extracting corners from frame 1380 / 4660
+I0323 04:37:27.739122 45389 board_extractor.cc:444] Extracting corners from frame 1440 / 4660
+I0323 04:37:30.899349 45389 board_extractor.cc:444] Extracting corners from frame 1500 / 4660
+I0323 04:37:33.936785 45389 board_extractor.cc:444] Extracting corners from frame 1560 / 4660
+I0323 04:37:36.924877 45389 board_extractor.cc:444] Extracting corners from frame 1620 / 4660
+I0323 04:37:39.986691 45389 board_extractor.cc:444] Extracting corners from frame 1680 / 4660
+I0323 04:37:43.362092 45389 board_extractor.cc:444] Extracting corners from frame 1740 / 4660
+I0323 04:37:46.909268 45389 board_extractor.cc:444] Extracting corners from frame 1800 / 4660
+I0323 04:37:50.243806 45389 board_extractor.cc:444] Extracting corners from frame 1860 / 4660
+I0323 04:37:53.268792 45389 board_extractor.cc:444] Extracting corners from frame 1920 / 4660
+I0323 04:37:56.168500 45389 board_extractor.cc:444] Extracting corners from frame 1980 / 4660
+I0323 04:37:58.878335 45389 board_extractor.cc:444] Extracting corners from frame 2040 / 4660
+I0323 04:38:01.800104 45389 board_extractor.cc:444] Extracting corners from frame 2100 / 4660
+I0323 04:38:04.603153 45389 board_extractor.cc:444] Extracting corners from frame 2160 / 4660
+I0323 04:38:07.442104 45389 board_extractor.cc:444] Extracting corners from frame 2220 / 4660
+I0323 04:38:10.489637 45389 board_extractor.cc:444] Extracting corners from frame 2280 / 4660
+I0323 04:38:13.522440 45389 board_extractor.cc:444] Extracting corners from frame 2340 / 4660
+I0323 04:38:16.194345 45389 board_extractor.cc:444] Extracting corners from frame 2400 / 4660
+I0323 04:38:19.115998 45389 board_extractor.cc:444] Extracting corners from frame 2460 / 4660
+I0323 04:38:21.929826 45389 board_extractor.cc:444] Extracting corners from frame 2520 / 4660
+I0323 04:38:24.622788 45389 board_extractor.cc:444] Extracting corners from frame 2580 / 4660
+I0323 04:38:27.248821 45389 board_extractor.cc:444] Extracting corners from frame 2640 / 4660
+I0323 04:38:29.964143 45389 board_extractor.cc:444] Extracting corners from frame 2700 / 4660
+I0323 04:38:32.366617 45389 board_extractor.cc:444] Extracting corners from frame 2760 / 4660
+I0323 04:38:34.913619 45389 board_extractor.cc:444] Extracting corners from frame 2820 / 4660
+I0323 04:38:37.305001 45389 board_extractor.cc:444] Extracting corners from frame 2880 / 4660
+I0323 04:38:39.984174 45389 board_extractor.cc:444] Extracting corners from frame 2940 / 4660
+I0323 04:38:42.488056 45389 board_extractor.cc:444] Extracting corners from frame 3000 / 4660
+I0323 04:38:44.987270 45389 board_extractor.cc:444] Extracting corners from frame 3060 / 4660
+I0323 04:38:47.665339 45389 board_extractor.cc:444] Extracting corners from frame 3120 / 4660
+I0323 04:38:49.974138 45389 board_extractor.cc:444] Extracting corners from frame 3180 / 4660
+I0323 04:38:52.536152 45389 board_extractor.cc:444] Extracting corners from frame 3240 / 4660
+I0323 04:38:55.068559 45389 board_extractor.cc:444] Extracting corners from frame 3300 / 4660
+I0323 04:38:57.696897 45389 board_extractor.cc:444] Extracting corners from frame 3360 / 4660
+I0323 04:39:00.209791 45389 board_extractor.cc:444] Extracting corners from frame 3420 / 4660
+I0323 04:39:02.712327 45389 board_extractor.cc:444] Extracting corners from frame 3480 / 4660
+I0323 04:39:05.390110 45389 board_extractor.cc:444] Extracting corners from frame 3540 / 4660
+I0323 04:39:08.160264 45389 board_extractor.cc:444] Extracting corners from frame 3600 / 4660
+I0323 04:39:10.827275 45389 board_extractor.cc:444] Extracting corners from frame 3660 / 4660
+I0323 04:39:13.514405 45389 board_extractor.cc:444] Extracting corners from frame 3720 / 4660
+I0323 04:39:16.187402 45389 board_extractor.cc:444] Extracting corners from frame 3780 / 4660
+I0323 04:39:18.928193 45389 board_extractor.cc:444] Extracting corners from frame 3840 / 4660
+I0323 04:39:21.629511 45389 board_extractor.cc:444] Extracting corners from frame 3900 / 4660
+I0323 04:39:24.269439 45389 board_extractor.cc:444] Extracting corners from frame 3960 / 4660
+I0323 04:39:26.943262 45389 board_extractor.cc:444] Extracting corners from frame 4020 / 4660
+I0323 04:39:29.709882 45389 board_extractor.cc:444] Extracting corners from frame 4080 / 4660
+I0323 04:39:32.683640 45389 board_extractor.cc:444] Extracting corners from frame 4140 / 4660
+I0323 04:39:35.412043 45389 board_extractor.cc:444] Extracting corners from frame 4200 / 4660
+I0323 04:39:38.407889 45389 board_extractor.cc:444] Extracting corners from frame 4260 / 4660
+I0323 04:39:41.187150 45389 board_extractor.cc:444] Extracting corners from frame 4320 / 4660
+I0323 04:39:44.317806 45389 board_extractor.cc:444] Extracting corners from frame 4380 / 4660
+I0323 04:39:46.963213 45389 board_extractor.cc:444] Extracting corners from frame 4440 / 4660
+I0323 04:39:49.708578 45389 board_extractor.cc:444] Extracting corners from frame 4500 / 4660
+I0323 04:39:52.700194 45389 board_extractor.cc:444] Extracting corners from frame 4560 / 4660
+I0323 04:39:55.452611 45389 board_extractor.cc:444] Extracting corners from frame 4620 / 4660
+Finished corner extraction.
+==================================================================
+Corner extraction took 308.50s.
+==================================================================
+==================================================================
+Running camera calibration.
+==================================================================
+Calibrating camera.
+View: 0/1463 initialized for calibration.
+View: 100/1463 initialized for calibration.
+View: 200/1463 initialized for calibration.
+View: 300/1463 initialized for calibration.
+View: 400/1463 initialized for calibration.
+View: 500/1463 initialized for calibration.
+View: 600/1463 initialized for calibration.
+View: 700/1463 initialized for calibration.
+View: 800/1463 initialized for calibration.
+View: 900/1463 initialized for calibration.
+View: 1000/1463 initialized for calibration.
+View: 1100/1463 initialized for calibration.
+View: 1200/1463 initialized for calibration.
+View: 1300/1463 initialized for calibration.
+View: 1400/1463 initialized for calibration.
+Using 96 views for camera calibration.
+Final camera calibration reprojection error: 0.396968 from 92 view.
+Focal Length:438.424px Principal Point: 480.374/273.936px.
+DIVISION_UNDISTORTION model: Distortion: -1.42152e-06
+Finished camera calibration.
+==================================================================
+Camera calibration took 21.16s.
+==================================================================
+==================================================================
+Extracting GoPro telemetry for imu bias and camera imu calibration.
+==================================================================
+==================================================================
+Telemetry extraction took 0.61s.
+==================================================================
+==================================================================
+Estimating IMU biases.
+==================================================================
+Estimated biases:
+gyroscope bias:     -0.00161 rad/s, 0.00187 rad/s, -0.00759 rad/s
+accelerometer bias: -0.02881 m/s2,  -0.03653 m/s2,  0.01007 m/s2
+Writing result to:  ../GoPro9/dataset3/imu_bias/imu_bias_GH010163.json
+==================================================================
+IMU bias estimation took 1.18s.
+==================================================================
+==================================================================
+Estimating camera poses for IMU - CAM calibration.
+==================================================================
+I0323 04:40:21.594545 45497 estimate_camera_poses_from_checkerboard.cc:57] Start pose estimation.
+PoseEstimator setting max reprojection error to: 2.16
+I0323 04:40:36.295436 45497 pose_estimator.cc:141] Skipping view at timestamp : 42.7927s. Not enough points found.
+I0323 04:40:36.557615 45497 pose_estimator.cc:141] Skipping view at timestamp : 43.5602s. Not enough points found.
+I0323 04:40:36.603601 45497 pose_estimator.cc:141] Skipping view at timestamp : 43.9439s. Not enough points found.
+I0323 04:40:36.794869 45497 pose_estimator.cc:141] Skipping view at timestamp : 44.4277s. Not enough points found.
+I0323 04:40:36.794904 45497 pose_estimator.cc:141] Skipping view at timestamp : 44.4945s. Not enough points found.
+I0323 04:40:37.080931 45497 pose_estimator.cc:141] Skipping view at timestamp : 45.412s. Not enough points found.
+I0323 04:40:37.234611 45497 pose_estimator.cc:141] Skipping view at timestamp : 45.7457s. Not enough points found.
+I0323 04:40:37.250450 45497 pose_estimator.cc:141] Skipping view at timestamp : 46.096s. Not enough points found.
+I0323 04:40:37.606017 45497 pose_estimator.cc:141] Skipping view at timestamp : 47.1471s. Not enough points found.
+I0323 04:40:38.200379 45497 pose_estimator.cc:141] Skipping view at timestamp : 49.1324s. Not enough points found.
+I0323 04:40:38.216276 45497 pose_estimator.cc:141] Skipping view at timestamp : 49.416s. Not enough points found.
+I0323 04:40:38.466826 45497 pose_estimator.cc:141] Skipping view at timestamp : 50.0834s. Not enough points found.
+I0323 04:40:38.955011 45497 pose_estimator.cc:141] Skipping view at timestamp : 51.4681s. Not enough points found.
+I0323 04:40:39.546247 45497 pose_estimator.cc:141] Skipping view at timestamp : 53.7203s. Not enough points found.
+I0323 04:40:39.783838 45497 pose_estimator.cc:141] Skipping view at timestamp : 54.5044s. Not enough points found.
+I0323 04:40:39.985520 45497 pose_estimator.cc:141] Skipping view at timestamp : 54.9048s. Not enough points found.
+I0323 04:40:40.178229 45497 pose_estimator.cc:141] Skipping view at timestamp : 55.2886s. Not enough points found.
+I0323 04:40:40.577726 45497 pose_estimator.cc:141] Skipping view at timestamp : 56.2395s. Not enough points found.
+I0323 04:40:40.577761 45497 pose_estimator.cc:141] Skipping view at timestamp : 56.2729s. Not enough points found.
+I0323 04:40:40.736727 45497 pose_estimator.cc:141] Skipping view at timestamp : 56.74s. Not enough points found.
+I0323 04:40:40.743849 45497 pose_estimator.cc:141] Skipping view at timestamp : 56.9736s. Not enough points found.
+I0323 04:40:40.922623 45497 pose_estimator.cc:141] Skipping view at timestamp : 57.3406s. Not enough points found.
+I0323 04:40:40.922659 45497 pose_estimator.cc:141] Skipping view at timestamp : 57.3573s. Not enough points found.
+I0323 04:40:40.938709 45497 pose_estimator.cc:141] Skipping view at timestamp : 57.5742s. Not enough points found.
+I0323 04:40:40.938741 45497 pose_estimator.cc:141] Skipping view at timestamp : 57.5909s. Not enough points found.
+I0323 04:40:41.272888 45497 pose_estimator.cc:141] Skipping view at timestamp : 58.3917s. Not enough points found.
+I0323 04:40:41.505088 45497 pose_estimator.cc:141] Skipping view at timestamp : 59.0423s. Not enough points found.
+I0323 04:40:41.546788 45497 pose_estimator.cc:141] Skipping view at timestamp : 59.1758s. Not enough points found.
+I0323 04:40:41.953361 45497 pose_estimator.cc:141] Skipping view at timestamp : 60.1935s. Not enough points found.
+I0323 04:40:41.969234 45497 pose_estimator.cc:141] Skipping view at timestamp : 60.3102s. Not enough points found.
+I0323 04:40:41.969269 45497 pose_estimator.cc:141] Skipping view at timestamp : 60.3269s. Not enough points found.
+I0323 04:40:41.969331 45497 pose_estimator.cc:141] Skipping view at timestamp : 60.3436s. Not enough points found.
+I0323 04:40:42.410001 45497 pose_estimator.cc:141] Skipping view at timestamp : 61.3446s. Not enough points found.
+I0323 04:40:42.535766 45497 pose_estimator.cc:141] Skipping view at timestamp : 61.4614s. Not enough points found.
+I0323 04:40:42.837013 45497 pose_estimator.cc:141] Skipping view at timestamp : 61.8618s. Not enough points found.
+I0323 04:40:43.263814 45497 pose_estimator.cc:141] Skipping view at timestamp : 62.8795s. Not enough points found.
+I0323 04:40:43.281725 45497 pose_estimator.cc:141] Skipping view at timestamp : 62.9295s. Not enough points found.
+I0323 04:40:43.309237 45497 pose_estimator.cc:141] Skipping view at timestamp : 63.0296s. Not enough points found.
+I0323 04:40:43.757951 45497 pose_estimator.cc:141] Skipping view at timestamp : 64.0473s. Not enough points found.
+I0323 04:40:43.764881 45497 pose_estimator.cc:141] Skipping view at timestamp : 64.064s. Not enough points found.
+I0323 04:40:43.876441 45497 pose_estimator.cc:141] Skipping view at timestamp : 64.381s. Not enough points found.
+I0323 04:40:43.883705 45497 pose_estimator.cc:141] Skipping view at timestamp : 64.4143s. Not enough points found.
+I0323 04:40:43.907052 45497 pose_estimator.cc:141] Skipping view at timestamp : 64.4811s. Not enough points found.
+I0323 04:40:44.161859 45497 pose_estimator.cc:141] Skipping view at timestamp : 64.9816s. Not enough points found.
+I0323 04:40:44.178418 45497 pose_estimator.cc:141] Skipping view at timestamp : 65.065s. Not enough points found.
+I0323 04:40:44.343561 45497 pose_estimator.cc:141] Skipping view at timestamp : 65.4154s. Not enough points found.
+I0323 04:40:44.415984 45497 pose_estimator.cc:141] Skipping view at timestamp : 65.5488s. Not enough points found.
+I0323 04:40:44.634369 45497 pose_estimator.cc:141] Skipping view at timestamp : 65.8825s. Not enough points found.
+I0323 04:40:44.646540 45497 pose_estimator.cc:141] Skipping view at timestamp : 65.8992s. Not enough points found.
+I0323 04:40:44.808076 45497 pose_estimator.cc:141] Skipping view at timestamp : 66.3663s. Not enough points found.
+I0323 04:40:44.831115 45497 pose_estimator.cc:141] Skipping view at timestamp : 66.4998s. Not enough points found.
+I0323 04:40:45.019007 45497 pose_estimator.cc:141] Skipping view at timestamp : 66.8835s. Not enough points found.
+I0323 04:40:51.274233 45497 estimate_camera_poses_from_checkerboard.cc:60] Finished pose estimation.
+I0323 04:40:51.274268 45497 estimate_camera_poses_from_checkerboard.cc:62] Optimizing board points.
+I0323 04:41:15.554279 45497 bundle_adjuster.cc:325]
+Solver Summary (v 2.1.0-eigen-(3.4.0)-lapack-eigensparse-no_openmp)
+
+                                     Original                  Reduced
+Parameter blocks                         4196                       63
+Parameters                              25051                      252
+Effective parameters                    24988                      189
+Residual blocks                        251454                   251454
+Residuals                              502908                   502908
+
+Minimizer                        TRUST_REGION
+
+Dense linear algebra library            EIGEN
+Trust region strategy     LEVENBERG_MARQUARDT
+
+                                        Given                     Used
+Linear solver                        DENSE_QR                 DENSE_QR
+Threads                                     2                        2
+Linear solver ordering                     63                       63
+
+Cost:
+Initial                          1.054770e+00
+Final                            9.898626e-01
+Change                           6.490723e-02
+
+Minimizer iterations                        2
+Successful steps                            2
+Unsuccessful steps                          0
+
+Time (in seconds):
+Preprocessor                         0.081750
+
+  Residual only evaluation           0.096405 (2)
+  Jacobian & residual evaluation     1.212514 (2)
+  Linear solver                     20.675182 (2)
+Minimizer                           23.672311
+
+Postprocessor                        0.016085
+Total                               23.770146
+
+Termination:                      CONVERGENCE (Function tolerance reached. |cost_change|/cost: 1.693552e-07 <= 1.000000e-06)
+I0323 04:41:25.733680 45497 bundle_adjustment.cc:372] Redundancy in BundleAdjustTracks: 502719
+, final cost: 0.989863, root mean square reprojection error: 0.00280591, empirical variance factor: 3.93804e-06
+Empirical variance factor after board point optimization: 3.93804e-06
+Track Id: 0 std dev: 0.0131069 0.0221838 0.0307244 mm
+Track Id: 1 std dev: 0.0177709 0.0145272  0.030402 mm
+Track Id: 2 std dev: 0.0173853 0.0116076 0.0304236 mm
+Track Id: 3 std dev: 0.0152742 0.0111054 0.0303479 mm
+Track Id: 4 std dev:   0.01304 0.0113586 0.0296786 mm
+Track Id: 5 std dev:  0.011659 0.0118187 0.0302689 mm
+Track Id: 6 std dev: 0.0108013 0.0121307 0.0297491 mm
+Track Id: 7 std dev: 0.0112961 0.0124742 0.0296011 mm
+Track Id: 8 std dev: 0.0123829 0.0124639 0.0280787 mm
+Track Id: 9 std dev: 0.0151117 0.0205042 0.0301193 mm
+Track Id: 10 std dev: 0.0118954 0.0195768 0.0309699 mm
+Track Id: 11 std dev: 0.0133433 0.0155449 0.0313893 mm
+Track Id: 12 std dev: 0.0133555 0.0124632 0.0303904 mm
+Track Id: 13 std dev: 0.0123601   0.01114 0.0299356 mm
+Track Id: 14 std dev: 0.0113061 0.0108857 0.0298573 mm
+Track Id: 15 std dev: 0.0108707 0.0110944 0.0300157 mm
+Track Id: 16 std dev: 0.0111693  0.011355  0.029066 mm
+Track Id: 17 std dev: 0.0123914 0.0117626 0.0283751 mm
+Track Id: 18 std dev: 0.0199427 0.0161604 0.0307119 mm
+Track Id: 19 std dev: 0.0139476 0.0183877 0.0312928 mm
+Track Id: 20 std dev:  0.011773 0.0168831 0.0312134 mm
+Track Id: 21 std dev:  0.011594 0.0143246  0.030919 mm
+Track Id: 22 std dev:  0.011434 0.0123159   0.03074 mm
+Track Id: 23 std dev: 0.0111759 0.0112273 0.0303243 mm
+Track Id: 24 std dev: 0.0112151 0.0108977 0.0298727 mm
+Track Id: 25 std dev: 0.0118377 0.0110234 0.0296568 mm
+Track Id: 26 std dev: 0.0127931 0.0112211 0.0282629 mm
+Track Id: 27 std dev: 0.0225234 0.0132818 0.0309494 mm
+Track Id: 28 std dev: 0.0179215 0.0155148 0.0313408 mm
+Track Id: 29 std dev: 0.0142009 0.0158533 0.0312374 mm
+Track Id: 30 std dev: 0.0126102 0.0145892 0.0313309 mm
+Track Id: 31 std dev: 0.0120426 0.0129673  0.031109 mm
+Track Id: 32 std dev: 0.0119441 0.0117345 0.0306309 mm
+Track Id: 33 std dev: 0.0122543 0.0111151 0.0299891 mm
+Track Id: 34 std dev: 0.0128524 0.0109643 0.0290663 mm
+Track Id: 35 std dev: 0.0138259 0.0111084 0.0285114 mm
+Track Id: 36 std dev:   0.02419 0.0126214 0.0314669 mm
+Track Id: 37 std dev: 0.0210088 0.0131914 0.0313776 mm
+Track Id: 38 std dev: 0.0177777 0.0139489 0.0314926 mm
+Track Id: 39 std dev: 0.0155306 0.0136731  0.031493 mm
+Track Id: 40 std dev:  0.014338 0.0127909 0.0312685 mm
+Track Id: 41 std dev: 0.0139545 0.0118936 0.0308484 mm
+Track Id: 42 std dev: 0.0140073 0.0113225 0.0300286 mm
+Track Id: 43 std dev: 0.0144592 0.0111317   0.02901 mm
+Track Id: 44 std dev: 0.0152376 0.0112268 0.0280265 mm
+Track Id: 45 std dev: 0.0254225 0.0138602  0.031835 mm
+Track Id: 46 std dev: 0.0232212 0.0125233 0.0314375 mm
+Track Id: 47 std dev:   0.02076 0.0126471 0.0315328 mm
+Track Id: 48 std dev:  0.018658 0.0126452 0.0314996 mm
+Track Id: 49 std dev: 0.0172861 0.0122955 0.0312994 mm
+Track Id: 50 std dev: 0.0165415 0.0118395 0.0308143 mm
+Track Id: 51 std dev: 0.0162997 0.0115156 0.0300494 mm
+Track Id: 52 std dev: 0.0164871 0.0114354 0.0290408 mm
+Track Id: 53 std dev: 0.0168429 0.0115027 0.0277286 mm
+Track Id: 54 std dev: 0.0260743 0.0159348 0.0315896 mm
+Track Id: 55 std dev: 0.0249302 0.0136333 0.0316592 mm
+Track Id: 56 std dev:  0.023255 0.0127915 0.0319867 mm
+Track Id: 57 std dev: 0.0215037 0.0125282  0.031988 mm
+Track Id: 58 std dev: 0.0200813 0.0123584 0.0317851 mm
+Track Id: 59 std dev:  0.019109  0.012155 0.0311585 mm
+Track Id: 60 std dev: 0.0186911 0.0120508 0.0304878 mm
+Track Id: 61 std dev: 0.0186352 0.0120663 0.0295334 mm
+Track Id: 62 std dev: 0.0190653 0.0122798 0.0285889 mm
+Mean board point standard deviation after optimization: 0.0157742 0.0130386  0.030406 mm
+I0323 04:41:25.895946 45497 pose_estimator.cc:230] Optimizing all estimated poses.
+I0323 04:41:31.399627 45497 pose_estimator.cc:235] Finished optimizing camera poses.
+I0323 04:41:31.399655 45497 estimate_camera_poses_from_checkerboard.cc:66] Filtering bad poses.
+I0323 04:41:31.400931 45497 pose_estimator.cc:254] Removing view 1742 due to large z coordinate: 0.36979 vs median z coordinate 0.183851
+I0323 04:41:31.401029 45497 pose_estimator.cc:254] Removing view 1823 due to large z coordinate: 0.377048 vs median z coordinate 0.183851
+I0323 04:41:31.401108 45497 pose_estimator.cc:254] Removing view 1825 due to large z coordinate: 0.382353 vs median z coordinate 0.183851
+I0323 04:41:31.401154 45497 pose_estimator.cc:254] Removing view 1826 due to large z coordinate: 0.378251 vs median z coordinate 0.183851
+I0323 04:41:31.401192 45497 pose_estimator.cc:254] Removing view 1828 due to large z coordinate: 0.389669 vs median z coordinate 0.183851
+I0323 04:41:31.401235 45497 pose_estimator.cc:254] Removing view 1829 due to large z coordinate: 0.38981 vs median z coordinate 0.183851
+I0323 04:41:31.401275 45497 pose_estimator.cc:254] Removing view 1830 due to large z coordinate: 0.393729 vs median z coordinate 0.183851
+I0323 04:41:31.401316 45497 pose_estimator.cc:254] Removing view 1831 due to large z coordinate: 0.393154 vs median z coordinate 0.183851
+I0323 04:41:31.401356 45497 pose_estimator.cc:254] Removing view 1832 due to large z coordinate: 0.376848 vs median z coordinate 0.183851
+I0323 04:41:31.401384 45497 pose_estimator.cc:254] Removing view 1833 due to large z coordinate: 0.377744 vs median z coordinate 0.183851
+I0323 04:41:31.401419 45497 pose_estimator.cc:254] Removing view 1836 due to large z coordinate: 0.368879 vs median z coordinate 0.183851
+I0323 04:41:31.401474 45497 pose_estimator.cc:254] Removing view 1909 due to large z coordinate: 0.369907 vs median z coordinate 0.183851
+I0323 04:41:31.401541 45497 pose_estimator.cc:254] Removing view 1910 due to large z coordinate: 0.381062 vs median z coordinate 0.183851
+I0323 04:41:31.401587 45497 pose_estimator.cc:254] Removing view 1911 due to large z coordinate: 0.378146 vs median z coordinate 0.183851
+I0323 04:41:31.401672 45497 pose_estimator.cc:254] Removing view 1912 due to large z coordinate: 0.386559 vs median z coordinate 0.183851
+I0323 04:41:31.401741 45497 pose_estimator.cc:254] Removing view 1914 due to large z coordinate: 0.393735 vs median z coordinate 0.183851
+I0323 04:41:31.401788 45497 pose_estimator.cc:254] Removing view 1915 due to large z coordinate: 0.397543 vs median z coordinate 0.183851
+I0323 04:41:31.401824 45497 pose_estimator.cc:254] Removing view 1916 due to large z coordinate: 0.411875 vs median z coordinate 0.183851
+I0323 04:41:31.401857 45497 pose_estimator.cc:254] Removing view 1917 due to large z coordinate: 0.402186 vs median z coordinate 0.183851
+I0323 04:41:31.401912 45497 pose_estimator.cc:254] Removing view 1918 due to large z coordinate: 0.398852 vs median z coordinate 0.183851
+I0323 04:41:31.401955 45497 pose_estimator.cc:254] Removing view 1919 due to large z coordinate: 0.396859 vs median z coordinate 0.183851
+I0323 04:41:31.401997 45497 pose_estimator.cc:254] Removing view 1920 due to large z coordinate: 0.403214 vs median z coordinate 0.183851
+I0323 04:41:31.402036 45497 pose_estimator.cc:254] Removing view 1921 due to large z coordinate: 0.388965 vs median z coordinate 0.183851
+I0323 04:41:31.402097 45497 pose_estimator.cc:254] Removing view 1922 due to large z coordinate: 0.380041 vs median z coordinate 0.183851
+I0323 04:41:31.402140 45497 pose_estimator.cc:254] Removing view 1923 due to large z coordinate: 0.401556 vs median z coordinate 0.183851
+I0323 04:41:31.402171 45497 pose_estimator.cc:254] Removing view 1925 due to large z coordinate: 0.377945 vs median z coordinate 0.183851
+I0323 04:41:31.402231 45497 pose_estimator.cc:254] Removing view 2000 due to large z coordinate: 0.370007 vs median z coordinate 0.183851
+I0323 04:41:31.402290 45497 pose_estimator.cc:254] Removing view 2004 due to large z coordinate: 0.375909 vs median z coordinate 0.183851
+I0323 04:41:31.402344 45497 pose_estimator.cc:254] Removing view 2005 due to large z coordinate: 0.380329 vs median z coordinate 0.183851
+I0323 04:41:31.402383 45497 pose_estimator.cc:254] Removing view 2006 due to large z coordinate: 0.390914 vs median z coordinate 0.183851
+I0323 04:41:31.402426 45497 pose_estimator.cc:254] Removing view 2007 due to large z coordinate: 0.405197 vs median z coordinate 0.183851
+I0323 04:41:31.402457 45497 pose_estimator.cc:254] Removing view 2008 due to large z coordinate: 0.411154 vs median z coordinate 0.183851
+I0323 04:41:31.402498 45497 pose_estimator.cc:254] Removing view 2009 due to large z coordinate: 0.415535 vs median z coordinate 0.183851
+I0323 04:41:31.402535 45497 pose_estimator.cc:254] Removing view 2010 due to large z coordinate: 0.417716 vs median z coordinate 0.183851
+I0323 04:41:31.402571 45497 pose_estimator.cc:254] Removing view 2011 due to large z coordinate: 0.420772 vs median z coordinate 0.183851
+I0323 04:41:31.402611 45497 pose_estimator.cc:254] Removing view 2014 due to large z coordinate: 0.424047 vs median z coordinate 0.183851
+I0323 04:41:31.402654 45497 pose_estimator.cc:254] Removing view 2015 due to large z coordinate: 0.41266 vs median z coordinate 0.183851
+I0323 04:41:31.402678 45497 pose_estimator.cc:254] Removing view 2017 due to large z coordinate: 0.427327 vs median z coordinate 0.183851
+I0323 04:41:31.402705 45497 pose_estimator.cc:254] Removing view 2018 due to large z coordinate: 0.407096 vs median z coordinate 0.183851
+I0323 04:41:31.402729 45497 pose_estimator.cc:254] Removing view 2019 due to large z coordinate: 0.406452 vs median z coordinate 0.183851
+I0323 04:41:31.402773 45497 pose_estimator.cc:254] Removing view 2020 due to large z coordinate: 0.394188 vs median z coordinate 0.183851
+I0323 04:41:31.402818 45497 pose_estimator.cc:254] Removing view 2021 due to large z coordinate: 0.386555 vs median z coordinate 0.183851
+I0323 04:41:31.402858 45497 pose_estimator.cc:254] Removing view 2022 due to large z coordinate: 0.372422 vs median z coordinate 0.183851
+==================================================================
+Pose estimation estimation took 71.05s.
+==================================================================
+==================================================================
+Estimating Spline error weighting and knot spacing.
+==================================================================
+Knot spacing SO3:               0.050 seconds at quality level q_so3=0.99
+Knot spacing  R3:               0.090 seconds at quality level q_r3=0.99
+Gyroscope weighting factor:     22.374 at quality level q_so3=0.99
+Accelerometer weighting factor: 3.852 at quality level q_r3=0.99
+Writing result to:  ../GoPro9/dataset3/cam_imu/spline_info_GH010164.json
+==================================================================
+Spline weighting and knot spacing estimation took 1.56s.
+==================================================================
+==================================================================
+Initializing IMU to camera rotation.
+==================================================================
+I0323 04:41:34.034605 53821 estimate_imu_to_camera_rotation.cc:72] Load IMU bias file: ../GoPro9/dataset3/imu_bias/imu_bias_GH010163.json
+I0323 04:41:34.126821 53821 estimate_imu_to_camera_rotation.cc:89] It seems there are accurate image timestamps. Using first image timestamp as offset to video timestamps! Offset: 0 s.
+I0323 04:41:34.128501 53821 estimate_imu_to_camera_rotation.cc:115] Mean IMU data rate: 202.926Hz
+I0323 04:41:35.189146 53821 estimate_imu_to_camera_rotation.cc:150] Interpolating visual quaternions to IMU rate.
+I0323 04:41:35.329985 53821 imu_to_camera_rotation_estimator.cc:232] Estimating camera to IMU rotation.
+I0323 04:41:47.949728 53821 imu_to_camera_rotation_estimator.cc:264] Finished golden-section search in 18 iterations.
+I0323 04:41:47.949761 53821 imu_to_camera_rotation_estimator.cc:266] Final gyro to camera quaternion is: 0.00238994 -0.00347237 0.709738 -0.704453
+I0323 04:41:47.949786 53821 imu_to_camera_rotation_estimator.cc:268] Gyro bias is estimated to be: -0.00160678, 0.00187235, -0.00758646rad/s
+I0323 04:41:47.949800 53821 imu_to_camera_rotation_estimator.cc:270] Estimated time offset: -0.0124225s
+I0323 04:41:47.949810 53821 imu_to_camera_rotation_estimator.cc:271] Final alignment error: 1794.16
+==================================================================
+Spline weighting and knot spacing estimation took 14.24s.
+==================================================================
+==================================================================
+Optimizing IMU to Camera calibration using Spline Fusion.
+==================================================================
+WARNING: Logging before InitGoogleLogging() is written to STDERR
+I0323 04:41:49.055976 53825 read_misc.cc:89] Initial IMU biases supplied.
+I0323 04:41:49.056103 53825 read_misc.cc:139] No IMU intrinsic supplied. Setting misalignment and scale to identity.
+Loaded IMU intrinsics.
+Initialized Line Delay to: 30.8951ns
+I0323 04:41:49.184551 53825 imu_camera_calibrator.cc:65] Spline initialized with. Start/End: 0/77.7276 knots spacing r3/so3: 0.0897713/0.0500745
+Initializing 1558 SO3 knots.
+Initializing 871 R3 knots.
+Initializing 10 acceleration bias knots with: -0.0288142 -0.0365272  0.0100668 m2/s
+Initializing 10 gyroscope bias knots. -0.00160678  0.00187235 -0.00758646 rad/s
+I0323 04:41:49.283897 53825 imu_camera_calibrator.cc:87] Adding Vision measurements to spline
+I0323 04:41:49.337823 53825 imu_camera_calibrator.cc:99] Added all Vision measurements to the spline estimator
+I0323 04:41:49.337857 53825 imu_camera_calibrator.cc:101] Adding IMU measurements to spline
+I0323 04:41:49.405988 53825 imu_camera_calibrator.cc:121] Added all IMU measurements to the spline estimator
+g_a initialized with  0.36573 -9.73157 0.126298 at timestamp: 0
+I0323 04:41:49.408250 53825 spline_trajectory_estimator.impl.h:104] Optimizing T_I_C.
+I0323 04:41:49.408272 53825 spline_trajectory_estimator.impl.h:113] Keeping camera line delay constant at: 3.08951e-05
+I0323 04:41:49.408286 53825 spline_trajectory_estimator.impl.h:131] Optimizing gravity direction.
+I0323 04:41:49.408298 53825 spline_trajectory_estimator.impl.h:137] Keeping object points constant.
+I0323 04:41:49.408353 53825 spline_trajectory_estimator.impl.h:160] Keeping IMU intrinsics constant.
+I0323 04:41:49.409921 53825 spline_trajectory_estimator.impl.h:223] Fixing accelerometer bias spline.
+I0323 04:41:49.409946 53825 spline_trajectory_estimator.impl.h:245] Fixing gyroscope bias spline.
+iter      cost      cost_change  |gradient|   |step|    tr_ratio  tr_radius  ls_iter  iter_time  total_time
+   0  5.111803e+08    0.00e+00    1.40e+09   0.00e+00   0.00e+00  1.00e+04        0    1.74e+01    1.77e+01
+   1  6.715028e+06    5.04e+08    6.69e+06   3.10e+00   9.01e-01  2.06e+04        1    7.83e+01    9.59e+01
+   2  2.026039e+06    4.69e+06    3.09e+06   8.38e-01   8.83e-01  3.74e+04        1    6.20e+01    1.58e+02
+   3  1.986443e+06    3.96e+04    5.57e+04   2.04e+00   9.81e-01  1.12e+05        1    5.75e+01    2.15e+02
+   4  1.985421e+06    1.02e+03    8.18e+04   1.43e+00   8.35e-01  1.60e+05        1    1.82e+01    2.34e+02
+   5  1.985007e+06    4.13e+02    5.42e+04   1.64e+00   9.65e-01  4.81e+05        1    1.82e+01    2.52e+02
+
+Solver Summary (v 2.1.0-eigen-(3.4.0)-lapack-eigensparse-no_openmp)
+
+                                     Original                  Reduced
+Parameter blocks                         2517                     2431
+Parameters                               9183                     8855
+Effective parameters                     7624                     7296
+Residual blocks                         35280                    35280
+Residuals                              551156                   551156
+
+Minimizer                        TRUST_REGION
+
+Sparse linear algebra library    EIGEN_SPARSE
+Trust region strategy     LEVENBERG_MARQUARDT
+
+                                        Given                     Used
+Linear solver          SPARSE_NORMAL_CHOLESKY   SPARSE_NORMAL_CHOLESKY
+Visibility clustering         CANONICAL_VIEWS          CANONICAL_VIEWS
+Threads                                     2                        2
+Linear solver ordering              AUTOMATIC                     2431
+Use inner iterations                     True                     True
+Inner iteration ordering            AUTOMATIC 2,6,17,26,33,53,104,120,126,127,128,131,140,173,181,189,194,218,227,236
+
+Cost:
+Initial                          5.111803e+08
+Final                            1.985007e+06
+Change                           5.091953e+08
+
+Minimizer iterations                        6
+Successful steps                            6
+Unsuccessful steps                          0
+Steps with inner iterations                 2
+
+Time (in seconds):
+Preprocessor                         0.284304
+
+  Residual only evaluation           1.546013 (9)
+  Jacobian & residual evaluation   103.919373 (6)
+  Linear solver                      4.061195 (6)
+  Inner iterations                 142.653293
+Minimizer                          252.313034
+
+Postprocessor                        0.003753
+Total                              252.601092
+
+Termination:                      CONVERGENCE (Function tolerance reached. |cost_change|/cost: 3.069811e-05 <= 1.000000e-04)
+
+Mean reprojection error 1.00461 number residuals: 228259
+I0323 04:46:02.272148 53825 continuous_time_imu_to_camera_calibration.cc:222] Mean reprojection error 1.00461px
+I0323 04:46:02.272176 53825 continuous_time_imu_to_camera_calibration.cc:223] Mean reprojection error after line delay optim 1.00461px
+g: 0.422105  -9.8289 0.109796
+accel_bias at time 0: -0.0288142 -0.0365272  0.0100668
+gyro_bias at time 0: -0.00160678  0.00187235 -0.00758646
+T_i_c qw,qx,qy,qz: 9.99639e-05 -0.00257267 -0.709029 0.705175
+T_i_c t: 0.00465667 -0.0293745 0.00438412
+T_i_c R:   -0.999987  0.00350721 -0.00377012
+ 0.00378918  0.00544293   -0.999978
+-0.00348661   -0.999979 -0.00545615
+Initialized line delay [us]: 30.8951
+Calibrated line delay [us]: 30.8951
+W0323 04:46:02.879738 53825 reconstruction.cc:363] Could not remove the track from the view because the track is not observed by the view.
+W0323 04:46:02.935465 53825 reconstruction.cc:363] Could not remove the track from the view because the track is not observed by the view.
+W0323 04:46:02.942598 53825 reconstruction.cc:363] Could not remove the track from the view because the track is not observed by the view.
+W0323 04:46:02.964118 53825 reconstruction.cc:363] Could not remove the track from the view because the track is not observed by the view.
+W0323 04:46:02.993499 53825 reconstruction.cc:363] Could not remove the track from the view because the track is not observed by the view.
+W0323 04:46:02.997295 53825 reconstruction.cc:363] Could not remove the track from the view because the track is not observed by the view.
+==================================================================
+Spline weighting and knot spacing estimation took 285.82s.
+==================================================================
+==================================================================
+Print results.
+==================================================================
+/home/azureuser/OpenImuCameraCalibrator/python/../python/print_result_stats.py:78: UserWarning: You have mixed positional and keyword arguments, some input may be discarded.
+  fig.legend(ax, labels=labels, loc="upper right", borderaxespad=0.1)
