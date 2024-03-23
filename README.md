@@ -39,8 +39,8 @@ The rest is just to download the GoPro9 dataset and run the Python script follow
      - **y**: -0.7090053081563532
      - **z**: 0.7051968583089459
    - **Translation from IMU to Camera**:
-     - **x**: 0.00436223202935702,
-     - **y**: -0.029004819071142086,
+     - **x**: 0.00436223202935702
+     - **y**: -0.029004819071142086
      - **z**: 0.004429337640346526
 
 4. **Time Offset IMU to Camera**: refer to `cam_imu_calib_result_GH010164.json` for the values.
